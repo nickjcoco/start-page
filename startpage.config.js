@@ -1,5 +1,5 @@
 const defaultConfig = {
-	username: "nick",
+	username: "johnkimble",
 	theme: {
 		backgroundColor: "#121317",
 		windowColor: "#1e212b",
